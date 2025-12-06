@@ -5,7 +5,7 @@ A complete **Inventory Management System** built using **Python and Tkinter GUI*
 ---
 
 ## 👨‍💻 Author
-**Nishant Gupta**
+**Deepak Kumar Singh**
 
 ---
 
